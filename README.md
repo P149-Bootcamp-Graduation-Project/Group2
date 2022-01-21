@@ -20,10 +20,10 @@ Okullarda bulunan sınıfların, ısı dereceleri, hava kaliteleri ve sınıfın
 
 ## Mikro Servisler
 
--Sensor reader (Producer)
--Kafka data reader (Consumer)
--Error Log collector
--Data reader class by class
+- Sensor reader (Producer)
+- Kafka data reader (Consumer)
+- Error Log collector
+- Data reader class by class
 
 ## Sensörler & Araçlar
 
