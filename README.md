@@ -41,8 +41,3 @@ Okullarda bulunan sınıfların, ısı dereceleri, hava kaliteleri ve sınıfın
 
 ## Kullanılacak Teknolojiler
 -Swagger (Dokümantasyon Kütüphanesi)
-
-## Mimari
-
-<img src="./img/mimari.png" alt="mimari" width="100%" height="50%" align="center" style="margin:10px">
-
